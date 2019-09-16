@@ -3,3 +3,6 @@ Lib/
 Scripts/
 tcl/
 LICENSE.txt
+db.sqlite3
+blog/__pycache__/
+*.log
